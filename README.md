@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate front-end developer from Peru</h3>
 
-- 🌱 I’m currently learning **Javascript, React and node.js**
+- 🌱 I’m currently learning **Javascript, React and Node.js**
 
 - 📫 How to reach me **nicolevillalobosbe@gmail.com**
 
