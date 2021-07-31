@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Javascript, React and node.js**
 
-- 📫 How to reach me **nicole@gmail.com**
+- 📫 How to reach me **nicolevillalobosbe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing](https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing](https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing) -->
 
-- ⚡ Fun fact **I ❤ the Harry Potter saga**
+<!-- - ⚡ Fun fact **I ❤ the Harry Potter saga** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
