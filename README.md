@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   pronouns: ["she", "her"],
   code: ["HTML", "CSS", "Javascript", "React", "Node.js"], 
   tools: ["Git", "Trello","Figma", "VScode", "Bootstrap", "ESlint", "Sass", "Gatsby"],
-  areas: [ "Websites", "Business Intelligence", "Api", "Iot", "Chatbots", "Mobile"],
+  areas: [ "Websites", "Business Intelligence", "Api", "IoT", "Chatbots", "Mobile"],
   languages: ["Spanish", "English"]
   }
    ```
