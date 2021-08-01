@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 
 <!-- - ⚡ Fun fact **I ❤ the Harry Potter saga** -->
 
+const Nicole = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python], 
+  tools: [Node.js, React, IBM Watson, Vue],
+  frameworks: [Bootstrap5, Angular, Tailwind, Sass, Materialize, ]
+  areas: ["IoT", "Websites", "Api", "Chatbots", "Artificial Intelligence"],
+  languages: ["Portuguese", "English", "Spanish"]
+}
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicole-villalobos-becerra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicole-villalobos-becerra/" height="30" width="40" /></a>
