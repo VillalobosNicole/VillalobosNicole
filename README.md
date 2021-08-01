@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A passionate front-end developer from Peru</h3>
 
-- 🌱 I’m currently learning *Javascript, React and Node.js*
+- 🌱 I’m currently learning **_Javascript, React and Node.js_**
 
 - 📫 How to reach me **nicolevillalobosbe@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing)
 
-- ⚡ Fun fact *I* ❤ *research*
+- ⚡ Fun fact **_I_** ❤ **_research_**
 
 
   ```javascript
