@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact **I ❤ the Harry Potter saga** -->
 
 
-  <code>
+  ```javascript
   const Nicole = {
   pronouns: ["she", "her"],
   code: ["HTML", "CSS", "Javascript", "React", "Node.js"], 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   areas: [ "Websites", "Business Intelligence", "Api", "Iot", "Chatbots", "Mobile"],
   languages: ["Spanish", "English"]
   }
-<code>
+   ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
