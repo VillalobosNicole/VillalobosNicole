@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   const Nicole = {
   pronouns: ["she", "her"],
   code: ["HTML", "CSS", "Javascript", "React", "Node.js"], 
-  tools: ["Git", "Trello","Figma", "VScode", "Bootstrap", "ESlint", "Sass", "Gatsby"],
+  tools: ["Git", "Trello","Figma", "VSCode", "Bootstrap", "ESlint", "Sass", "Gatsby"],
   areas: [ "Websites", "Business Intelligence", "Api", "IoT", "Chatbots", "Mobile"],
   languages: ["Spanish", "English"]
   }
