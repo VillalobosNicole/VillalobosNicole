@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    ```
    - 📫 How to reach me **nicolevillalobosbe@gmail.com**
 
-- 📄 Know about my experiences **[Resume]( target="_blank" https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Csli9H0Tecm9a8mqC5g5PpI-EM338zgV/view?usp=sharing)**
 
 - ⚡ Fun fact **_I_** ❤ **_research_**
 
