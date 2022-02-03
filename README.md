@@ -2,9 +2,9 @@
 # 💫About Me :
 ##### 😄 Pronouns: She/Her
 ##### 🔭 I’m currently working on projects that give me new skills
-##### 🌱 I’m currently learning Design Thingking
+##### 🌱 I’m currently learning Design Thinking
 ##### ⚡ Fun fact: I ❤ research
-##### 📫 How to reach me: nicole villalobos be@gmail.com
+##### 📫 How to reach me: nicolevillalobosbe@gmail.com
 
 
 
