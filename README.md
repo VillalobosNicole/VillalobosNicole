@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
 
-# 💫About Me :
+<!-- # 💫About Me :
 😄 Pronouns: She/Her
 🔭 I’m currently working on projects that give me new skills
 🌱 I’m currently learning Design Thinking
 ⚡ Fun fact: I ❤ research
 📫 How to reach me: nicole villalobos be@gmail.com
 
-
+ -->
 
 
 ## 🌐Socials
